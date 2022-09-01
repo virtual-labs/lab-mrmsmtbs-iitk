@@ -15,70 +15,70 @@
       "name": "Creep Transient Based on Material Selection (Pt/Mg)",
       "short-name": "material-selection",
       "repo": "https://github.com/virtual-labs/exp-material-selection-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Selection of Obstacle Distance (λ, grain boundary or precipitate)",
       "short-name": "obstacle-distance",
       "repo": "https://github.com/virtual-labs/exp-obstacle-distance-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Selection of Obstacle Density (ρ,number of grains/precipitate)",
       "short-name": "obstacle-density",
       "repo": "https://github.com/virtual-labs/exp-obstacle-density-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Hardness & Modulus",
       "short-name": "obstacle-distance",
       "repo": "https://github.com/virtual-labs/exp-obstacle-distance-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Indent Depth",
       "short-name": "indent-depth",
       "repo": "https://github.com/virtual-labs/exp-indent-depth-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Plastic Work",
       "short-name": "plastic-work",
       "repo": "https://github.com/virtual-labs/exp-plastic-work-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Contact Angle Measurement",
       "short-name": "contact-angle-measurement",
       "repo": "https://github.com/virtual-labs/exp-contact-angle-measurement-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To Image the Cytoskeleton of Cells Proliferation On Biomaterial Surface",
       "short-name": "cytoskeleton-cells-proliferation",
       "repo": "https://github.com/virtual-labs/exp-cytoskeleton-cells-proliferation-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To Image the Nucleus of Cells Proliferation On Biomaterial Surface",
       "short-name": "nucleus-cells-proliferation",
       "repo": "https://github.com/virtual-labs/exp-nucleus-cells-proliferation-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
       "short-name": "solid-oxide-fuel-cell",
       "repo": "https://github.com/virtual-labs/exp-solid-oxide-fuel-cell-iitk",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
@@ -95,5 +95,5 @@
   },
   "exp_name": "Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
   "exp_short_name": "solid-oxide-fuel-cell",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
