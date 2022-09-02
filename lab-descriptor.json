@@ -34,9 +34,9 @@
     },
     {
       "name": "Hardness & Modulus",
-      "short-name": "obstacle-distance",
-      "repo": "https://github.com/virtual-labs/exp-obstacle-distance-iitk",
-      "tag": "v1.0.1",
+      "short-name": "hardness-modulus",
+      "repo": "https://github.com/virtual-labs/exp-hardness-modulus-iitk",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
@@ -95,5 +95,5 @@
   },
   "exp_name": "Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
   "exp_short_name": "solid-oxide-fuel-cell",
-  "version": "v0.2.0"
+  "version": "v0.3.0"
 }
