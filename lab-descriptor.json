@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Mechanical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-mechanical-engineering",
+    "code": "MECH"
   },
   "lab": "Material Response to Micro Structural & Mechanical & Thermal and Biological Stimuli",
   "lab_display_name": "Material response to micro structural mechanical thermal and biological stimuli",
@@ -92,8 +93,5 @@
     "universities": [
       "B.tech : MSE204A (Introduction to Biomaterials) IIT Kanpur, B.tech: MME250 (Materials Characterization), IIT Kanpur"
     ]
-  },
-  "exp_name": "Ionic Conductivity YSZ Electrolyte Material For solid Oxide Fuel Cell",
-  "exp_short_name": "solid-oxide-fuel-cell",
-  "version": "v0.5.0"
+  }
 }
