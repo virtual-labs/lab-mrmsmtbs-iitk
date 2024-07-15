@@ -6,7 +6,6 @@
   },
   "lab": "Material Response to Micro Structural & Mechanical & Thermal and Biological Stimuli",
   "lab_display_name": "Material response to micro structural mechanical thermal and biological stimuli",
-  "deployLab": true,
   "phase": 2,
   "collegeName": "IITK",
   "baseUrl": "mrmsmtbs-iitk.vlabs.ac.in",
